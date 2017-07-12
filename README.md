@@ -1,5 +1,4 @@
-[![Stories in Ready](https://badge.waffle.io/infopirate/UniBit-Files.png?label=UNIBIT&title=UNIBIT) ](https://waffle.io/infopirate/UniBit-Files?utm_source=badge)
-![](https://img.shields.io/badge/status-wip-orange.svg?style=flat-square)
+![In Progress](https://img.shields.io/badge/UNIBIT-In%20Progress-lightgrey.svg)
 # UniBit-Files
 UniBit-Files
 
