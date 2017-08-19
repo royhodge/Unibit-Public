@@ -24,7 +24,7 @@ showreadme
 done
 }
 
-## Step_1 Menu --> Organize the processes!
+## Step_1 Menu 
 Step_1()
 {
 		reconmenu=("Next_Step_After_1" "Go back")
@@ -44,7 +44,7 @@ Step_1()
 	done
 }
 
-## Step_2 Menu --> Perform actions & debug errors
+## Step_2 Menu 
 Step_2()
 {
 		dosmenu=("Next_Step_After_2" "Go back")
@@ -62,7 +62,7 @@ Step_2()
 	done
 }
 
-## Step_3 Menu --> Utilize the installation w/ custom FE
+## Step_3 Menu
 Step_3()
 {
         extractionmenu=("Step_3_Subprocess" "Go back")
@@ -93,15 +93,6 @@ showreadme()
 	echo ""
 	echo "Hello and welcome to the UNIBIT Platform!"
 	echo ""
-	echo "--------------------"
-  echo "-----=--------=-----"
-	echo "-----=--------=-----"
-  echo "-----=--------=-----"
-	echo "-----=--------=-----"
-	echo "-----=--------=-----"
-  echo "-----=--------=-----"
-	echo "-----==========-----"
-	echo "--------------------"
 	echo ""
 	echo "This software is released as/is and unlicensed. Use at your own discretion."
 	echo "Please report all bugs, improvements and suggestions to /somewhere/real"
