@@ -105,14 +105,6 @@ mainmenu
 
 
 
-##	echo "~~~~~~~~~~~~~~~~~~~~~~~~~"
-##	echo " U N I B I T - Readme.md "
-##	echo "~~~~~~~~~~~~~~~~~~~~~~~~~"
-##	echo ""
-##	echo "Please pull this content from github with curl in future version."
-	##E.g. --> "curl -s https://github.com/infopirate/UniBit-Files/blob/master/README.md | more"
-
-
 ##deps()
 ##{
 	##what happens
