@@ -4,7 +4,7 @@ CLS
 ECHO.
 ECHO ...............................................
 ECHO PRESS 1, 2 OR 3 to select your task, or 4 to EXIT.
-ECHO     	   __  __      _ ____  _ __
+ECHO     __  __      _ ____  _ __
 ECHO    	  / / / /___  (_) __ )(_) /_
 ECHO	     / / / / __ \/ / __  / / __/
 ECHO	    / /_/ / / / / / /_/ / / /_
