@@ -4,6 +4,12 @@ CLS
 ECHO.
 ECHO ...............................................
 ECHO PRESS 1, 2 OR 3 to select your task, or 4 to EXIT.
+ECHO     	   __  __      _ ____  _ __
+ECHO    	  / / / /___  (_) __ )(_) /_
+ECHO	     / / / / __ \/ / __  / / __/
+ECHO	    / /_/ / / / / / /_/ / / /_
+ECHO	    \____/_/ /_/_/_____/_/\__/
+ECHO
 ECHO ...............................................
 ECHO.
 ECHO 1 - Install UniBit Wallet
