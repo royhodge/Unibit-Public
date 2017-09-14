@@ -5,5 +5,6 @@
 
 > WARNING: UniBit is intended for experimenting and learning, NOT for a production environment.
 
-UniBit-Files, Directory Structure, Governance, Wiki, Forums, Polls, Commits & Votes, and more Twisted shit.
-Community operated & autonomously funded. Decentraland in real life. 
+UniBit-Files, Directory Structure, Governance, Wiki, Forums, Polls, Commits & Votes, and more.
+
+Community operated & autonomously funded. 
