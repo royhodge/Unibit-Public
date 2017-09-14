@@ -7,4 +7,4 @@
 
 UniBit-Files, Directory Structure, Governance, Wiki, Forums, Polls, Commits & Votes, and more.
 
-Community operated & autonomously funded. 
+Decentralized operation & autonomously funded.  
