@@ -5,5 +5,4 @@
 
 > WARNING: UniBit is intended for experimenting and learning, NOT for a production environment.
 
-UniBit-Files, Directory Structure, Governance, Wiki, Forums, Polls, Commits & Votes, and more.
  
