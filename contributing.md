@@ -2,7 +2,7 @@
 [UniBit-Public Main Repo](https://github.com/unibitlabs/)
 
 [![](https://img.shields.io/badge/made%20by-UniBit%20Labs-lightgrey.svg?style=flat-square)](http://www.unibit.io)
-[![](https://img.shields.io/badge/freenode-%23unibit-blue.svg?style=flat-square)](http://webchat.freenode.net/?channels=%23unibit)
+[![](https://img.shields.io/badge/freenode-%23unibitlabs-blue.svg?style=flat-square)](http://webchat.freenode.net/?channels=%23unibit)
 
 
 UniBit is an Open Source project and we welcome contributions of all sorts.
