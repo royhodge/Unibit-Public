@@ -39,3 +39,11 @@ GOTO MENU
 cd %appdata%\multichain\unibit\
 start multichain-cli.exe dumpwallet "filename"
 GOTO MENU
+
+
+
+WIP; Please don't attempt to run anything until we release info on the website, 
+alot of things are filled with garbage data until 
+the governance committee releases timeline.
+
+*Modify this script to open other batch files with their own functions for windows build.
